@@ -1,0 +1,46 @@
+---
+## This layout is the default layout from the 'jekyll-theme-anu' theme, but without the 
+## anchor_headings.html include.
+layout: base
+---
+
+<div class="default">
+  {% comment %} Main content - "Skip to main content" button target {% endcomment %}
+  <main aria-label="Main content" class="default" id="main-content" >
+    {% comment %} Page banner {% endcomment %}
+    {% include partials/banner.html %}
+
+    <div class="container grid">
+    {% comment %} Page level navigation - table of contents {% endcomment %}
+    {% if page.show_toc %}
+    <aside class="default__page-aside">
+      {% include partials/toc-section.html %}
+    </aside>
+    {% endif %}
+
+    {% comment %} Page content {% endcomment %}
+    <section class="default__page-content" id="skip-toc-target">
+      {{ content }}
+
+      {% comment %} Pagination nav {% endcomment %}
+      {% if page.show_pagination %}
+        {% include partials/pagination.html %}
+      {% endif %}
+    </section>
+
+    {% comment %} Collection level navigation - collection pages, post tags {% endcomment %}
+    {% if page.show_collection or page.show_tags %}
+    <aside class="default__collection-aside">
+      {% if page.show_collection %}{% include partials/collection-nav.html %}{% endif %}
+      {% if page.show_tags %}{% include partials/tags-nav.html %}{% endif %}
+    </aside>
+    {% endif %}
+  </main>
+
+  {% comment %} Related pages section {% endcomment %}
+  {% if page.show_related %}
+    {% include partials/related-pages.html %}
+  {% endif %}
+
+  <div class="container filler"></div>
+</div>
