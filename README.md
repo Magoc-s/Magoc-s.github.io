@@ -8,7 +8,6 @@ https://teams.microsoft.com/l/channel/19%3aIcnInMyxTJ26Ik8FrUs9SefrG_9seawpDu95N
 This is a template repo for creating webpages using the new Jekyll ANU theme. You may fork it/copy it into your own webpage repo and adapt to your needs. This template repo is sort of like the 'Course In a Box' repo that existed for an older version of the theme. You may use it for any type of page, including but not limited to:
  - Course Pages, e.g.
     * [COMP2300](https://cs.anu.edu.au/courses/comp2300/)
-    * [COMP1720](https://cs.anu.edu.au/courses/comp1720/)
  - Group Pages, e.g.
     * [The c/c/c studio](https://cs.anu.edu.au/code-creativity-culture/)
  - And broader, e.g.
