@@ -62,7 +62,7 @@ menu:
   - name: Resources
     page: _resources/index.md
   - name: Help
-    page: 03-getting-help.md
+    page: getting-help.md
 # A lot of choices here are up to your specific style needs.
 
 # Specify to jekyll what directories you want included in your website when it builds.
