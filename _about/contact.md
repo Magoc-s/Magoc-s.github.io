@@ -3,7 +3,6 @@ title: Contact - Example Jekyll Webpage
 hidden: false
 tagline: <a href="https://cecs.anu.edu.au">ANU College of Engineering and Computer Science</a>
 image: /assets/images/ANU_Hanna_Neumann_Building_by_photographer_Rodrigo_Vargas.jpg
-permalink: /about/contact
 ---
 
 ---
