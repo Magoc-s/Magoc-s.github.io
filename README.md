@@ -27,10 +27,53 @@ with the ideal process being as follows:
 
 2. if you require any advanced functionality, such as additional features, more
    formatting options, or a slightly different look, this can be done through a
-   few different ways, the easiest one being through the '_includes' folder (you
+   few different ways, the easiest one being through the `_includes` folder (you
    can explore the `_includes` folder in this repo if you want to see concrete
    examples), which allows you to bring in `html` documents, or override
    existing ones in the theme
+
+---
+
+## Documentation
+
+Getting setup/started with the new theme can be a little bit difficult. We have put together documentation
+over at [CECS Jekyll theme docs](https://cs.anu.edu.au/docs/gitlab-pages/). If there is any information missing
+or you would like additional help, please do not be afraid to contact the CECS Jekyll web support teams channel/email (linked above).
+
+---
+
+
+## Directories Explanation
+
+The directories in the the Jekyll ANU website template repo (and all webpages using the new ANU Jekyll theme) are split into two groups:
+ - Theme/Jekyll required
+ - Content directories
+
+The `assets` directory is the only one not starting with an underscore (`_`).
+
+The directories required by the theme/Jekyll are:
+ * `_sass`
+ * `_layouts`
+ * `_includes`
+ * `assets`
+
+Technically you do not need any of these directories as they are in the theme as well, and files included in these directories will either
+override files of the same name in the theme, or just be added to the theme. Thus if you have no custom includes, layouts or sass files, you can
+delete these directories. You will probably need the `/assets/` directory though.
+
+Then for every collection of pages you have (essentially every 'tab' in the top menu bar) is its own directory as well.
+I.e. the template website has 'About', 'Lectures', 'Labs', 'Assessments', and 'Resources' collections.
+
+You can find an exact list of all the collections in the `_config.yml` file, under the `collections:` key.
+
+Each collection directory also starts with an underscore (`_`), thus the following directories in the template are for collections (content):
+ * `_about`
+ * `_assessments`
+ * `_labs`
+ * `_lectures`
+ * `_resources`
+
+Collections will usually have another `index.md` file in them as the landing page for that collection. I.e. if you click on the `About` top bar option, you are taken to the { base-url }/about/ page, which is dictated by the `_about/index.md` file. Other files that may be in the drop down menu or linked to from the `index.md` page will also be placed inside that collection.
 
 ## Licence
 
