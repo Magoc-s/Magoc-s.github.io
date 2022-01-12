@@ -47,7 +47,7 @@ or you would like additional help, please do not be afraid to contact the CECS J
 
 The directories in the the Jekyll ANU website template repo (and all webpages using the new ANU Jekyll theme) are split into two groups:
  - Theme/Jekyll required
- - Content directories
+ - Content/Collections directories
 
 The `assets` directory is the only one not starting with an underscore (`_`).
 
@@ -62,7 +62,8 @@ override files of the same name in the theme, or just be added to the theme. Thu
 delete these directories. You will probably need the `/assets/` directory though.
 
 Then for every collection of pages you have (essentially every 'tab' in the top menu bar) is its own directory as well.
-I.e. the template website has 'About', 'Lectures', 'Labs', 'Assessments', and 'Resources' collections.
+I.e. the template website has 'About', 'Lectures', 'Labs', 'Assessments', and 'Resources' collections. (Note: the `Help` menu option links directly
+to a file, rather than a collection)
 
 You can find an exact list of all the collections in the `_config.yml` file, under the `collections:` key.
 
