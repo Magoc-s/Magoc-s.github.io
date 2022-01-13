@@ -53,8 +53,8 @@ menu:
     page: _resources/index.md
   - name: Help
     page: getting-help.md
-  - name: "News & Events"
-    page: news-events/index.html
+  - name: "News"
+    page: news/index.html
 
 
 # tell jekyll what collection directories you want included in your website when it builds.
@@ -69,7 +69,7 @@ collections:
     output: true
   posts:
     cards: true
-    homepage: news-events/index.html
+    homepage: news/index.html
     permalink: /:year/:month/:day/:title/
 
 # Jekyll specific options, should be able to just leave these as they are.
