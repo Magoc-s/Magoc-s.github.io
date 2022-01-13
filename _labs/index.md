@@ -16,7 +16,7 @@ show_toc: true
 {% assign link_url = lab.url | prepend: site.baseurl %}
 {% assign text = lab.summary | strip_html %}
 
-<h4><a href="{{ link_url }}">{{ title }}</a></h4>
+<h3><a href="{{ link_url }}">{{ title }}</a></h3>
 
 {% comment %}
 <p>{{ text }} <a href="{{ link_url }}">(link)</a></p>
