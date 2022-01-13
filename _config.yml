@@ -40,24 +40,12 @@ contacts:
 # Add and remove options as you please, as long as the options you add have a valid 'page:' value, otherwise you will not be able to build the page.
 # This layout is purely an example and is meant to be adapted to your specific webpage needs. This sample loosely follows the needs of a course page.
 menu:
-  - name: About
-    page: _about/index.md
-    children:
-      - name: Contact
-        page: _about/contact.md
   - name: Lectures
     page: _lectures/index.md
   - name: Labs
     page: _labs/index.md
-    children:
-      - name: Lab 1
-        page: _labs/lab01.md
-      - name: Lab 2
-        page: _labs/lab02.md
-      # ... and so on
   - name: Assessments
     page: _assessments/index.md
-    # you could also list the children of the assessments group here, or link them in the assessments landing page.
   - name: Resources
     page: _resources/index.md
   - name: Help
