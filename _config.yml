@@ -19,10 +19,6 @@ defaults:
       layout: default
       image: /assets/images/ANU_Hanna_Neumann_Building_by_photographer_Rodrigo_Vargas.jpg
       show_anchor_headings: true
-  - scope:
-      path: "index.md"
-    values:
-      layout: use-liquid-boxes
 
 # Pick which theme we want to use. All new jekyll ANU webpages will use this jekyll-theme-anu theme.
 theme: jekyll-theme-anu
