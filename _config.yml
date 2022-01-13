@@ -19,6 +19,13 @@ defaults:
       layout: default
       image: /assets/images/ANU_Hanna_Neumann_Building_by_photographer_Rodrigo_Vargas.jpg
       show_anchor_headings: true
+  - scope:
+      path: "_posts"
+    values:
+      layout: detail
+      show_pagination: true
+      show_collection: true
+
 
 # Pick which theme we want to use. All new jekyll ANU webpages will use this jekyll-theme-anu theme.
 theme: jekyll-theme-anu
@@ -32,7 +39,7 @@ contacts:
     name: CECS Jekyll Web Support
     email: e1d2d6ca.ANU365.onmicrosoft.com@apac.teams.ms
 
-# The config options for the top bar menus. 
+# The config options for the top navbar menus. 
 # Add and remove options as you please, as long as the options you add have a valid 'page:' value, otherwise you will not be able to build the page.
 # This layout is purely an example and is meant to be adapted to your specific webpage needs. This sample loosely follows the needs of a course page.
 menu:
@@ -46,6 +53,9 @@ menu:
     page: _resources/index.md
   - name: Help
     page: getting-help.md
+  - name: "News & Events"
+    page: news-events/index.html
+
 
 # tell jekyll what collection directories you want included in your website when it builds.
 collections:
@@ -57,6 +67,10 @@ collections:
     output: true
   resources:
     output: true
+  posts:
+    cards: true
+    homepage: news-events/index.html
+    permalink: /:year/:month/:day/:title/
 
 # Jekyll specific options, should be able to just leave these as they are.
 markdown: kramdown

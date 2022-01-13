@@ -1,0 +1,14 @@
+---
+# This has to be an .html file for jekyll-paginate-v2
+title: News & Events
+image: /assets/images/computing.jpg
+permalink: /news-events/
+pagination:
+  enabled: true
+---
+
+<div class="grid grid--2">
+  {% include posts-cards.html cards=paginator.posts no_grid=true %}
+</div>
+
+{% include partials/pagination.html paginator=paginator %}
