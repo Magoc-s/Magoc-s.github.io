@@ -12,22 +12,10 @@ These links could also be links to PDF (or other) documents, if your lecture sli
 
 ## Lecture Slides
 
-{% comment %}
-{% include cardlist.html cards=site.lectures %}
-{% endcomment %}
+#### [Lecture 1: Welcome to Example Lecture!](/lectures/week-0/)
 
-  {% for lecture in site.lectures %}
-  {% unless lecture.hidden %}
-  {% if lecture.title contains ":" %}
-    {% assign tag = lecture.title | split: ":" | first %}
-  {% endif %}
-  {% assign title = lecture.title %}
-  {% assign link_url = lecture.url | prepend: site.baseurl %}
-  {% assign text = lecture.summary | strip_html %}
+This is an example lecture page. [(link)](/lectures/week-0/)
 
-  <h4><a href="{{ link_url }}">{{ title }}</a></h4>
+#### [Lecture 2: Sample PDF Document](/assets/lecture-pdfs/Lecture2.pdf)
 
-  <p>{{ text }} <a href="{{ link_url }}">(link)</a></p>
-
-  {% endunless %}
-  {% endfor %}
+This is an example lecture pdf file. [(link)](/assets/lecture-pdfs/Lecture2.pdf)
