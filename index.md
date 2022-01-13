@@ -1,6 +1,6 @@
 ---
 title: Jekyll ANU Website Template
-tagline: Template
+tagline: This is a starting point - make it your own!
 hidden: true
 tags: home
 no_breadcrumb: true
