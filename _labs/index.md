@@ -9,4 +9,4 @@ This course has some labs, and they're great.
 
 ## Content {#lab-content}
 
-{% include cardlist.html cards=site.labs %}
+{% include collection-listing.html show_search=false no_images=true %}
