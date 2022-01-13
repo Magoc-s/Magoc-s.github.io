@@ -1,6 +1,6 @@
 # Course/Page specific config options
-title: ANU CECS Template Page
-description: A template webpage for the new ANU Jekyll web theme.
+title: ANU CECS Template site
+description: A template website for the new ANU Jekyll theme.
 baseurl: ""
 url: ""
 date_format: "%b %-d, %Y"
@@ -50,12 +50,9 @@ menu:
     page: _resources/index.md
   - name: Help
     page: getting-help.md
-# A lot of choices here are up to your specific style needs.
 
-# Specify to jekyll what directories you want included in your website when it builds.
+# tell jekyll what collection directories you want included in your website when it builds.
 collections:
-  about:
-    output: true
   lectures:
     output: true
   labs:
@@ -64,19 +61,14 @@ collections:
     output: true
   resources:
     output: true
-  
 
 # Jekyll specific options, should be able to just leave these as they are.
 markdown: kramdown
 highlighter: none
-
 jekyll_proofer: warn
-
 autoprefixer:
   browsers:
     - last 2 versions
-  # uncomment out line below to turn off autoprefixing and speed up local build for development
-  # only_production: true
 
 # Sample values that can be assigned to the 'socials' list that pages can access and use. 
 # These socials links are used in the footers of pages under the 'Acknowledgement of Country', and with the other 'contact' links.
@@ -87,16 +79,6 @@ autoprefixer:
 #   youtube: 
 #   linkedin: 
 #   wechat: 
-
-# You may add your own YAML tags to this _config file if you want too. An example may be some important links that would be referenced many times
-# throughout your webpage. I.e. a link to the CECS Jekyll web support teams channel:
-jekyll-support-link: https://teams.microsoft.com/l/team/19%3aIcnInMyxTJ26Ik8FrUs9SefrG_9seawpDu95NmKwiIE1%40thread.tacv2/conversations?groupId=dab190b1-14f2-40cf-b384-ee00c63d2019&tenantId=e37d725c-ab5c-4624-9ae5-f0533e486437
-jekyll-support-email: e1d2d6ca.ANU365.onmicrosoft.com@apac.teams.ms
-
-
-# Don't worry about anything listed below here.
-
-# analytics_id: insert tracking or measurement id here
 
 ## jekyll-paginate-v2 for pagination
 pagination:
@@ -124,3 +106,8 @@ pagination:
 #     enabled: false
 #   categories:
 #     enabled: false
+
+# You may add your own YAML tags to this _config file if you want too. An example may be some important links that would be referenced many times
+# throughout your webpage. I.e. a link to the CECS Jekyll web support teams channel:
+jekyll_support_link: https://teams.microsoft.com/l/team/19%3aIcnInMyxTJ26Ik8FrUs9SefrG_9seawpDu95NmKwiIE1%40thread.tacv2/conversations?groupId=dab190b1-14f2-40cf-b384-ee00c63d2019&tenantId=e37d725c-ab5c-4624-9ae5-f0533e486437
+jekyll_support_email: e1d2d6ca.ANU365.onmicrosoft.com@apac.teams.ms
