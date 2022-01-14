@@ -7,13 +7,16 @@ no_breadcrumb: true
 show_anchor_headings: false
 ---
 
-{:.warn-box}
-This is a template home page for the Jekyll ANU Website Template repo.
+{:.lead}
+This is a template course website page for the Jekyll ANU Website Template repo.
 
-## Template Repo Content
+This repo contains a selection of sample pages to demonstrate how one may want
+to use the new Jekyll ANU theme. You will have to add to and modify this
+template to suit your website.
 
-This repo contains a selection of sample pages to demonstrate how one may want to use the new Jekyll ANU theme. It is likely you will have to add to and modify this template to suit your website. One way to customise your page is through `_includes` which allow you to import additional `html` documents into your webpage, and then access them through an 'include tag'.
+For more information, see the [online
+documentation](https://cs.anu.edu.au/docs/gitlab-pages/docs/).
 
-{% include sample-include.html %}
+{% include get-help-box.md %}
 
 
