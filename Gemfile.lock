@@ -23,7 +23,7 @@ GIT
 
 GIT
   remote: git@gitlab.anu.edu.au:jekyll-anu/gems/jekyll-theme-anu.git
-  revision: 523f24d9790888080170e469f55e26553399868e
+  revision: 914086fe8cabcb8a0cbb39a7ce9104d2af7b070f
   branch: master
   specs:
     jekyll-theme-anu (0.1.0)
@@ -56,7 +56,7 @@ GEM
     eventmachine (1.2.7)
     execjs (2.8.1)
     fast-stemmer (1.0.2)
-    ffi (1.15.4)
+    ffi (1.15.5)
     forwardable-extended (2.6.0)
     html-proofer (3.19.3)
       addressable (~> 2.3)
@@ -102,22 +102,22 @@ GEM
     libv8-node (16.10.0.0-x86_64-darwin)
     libv8-node (16.10.0.0-x86_64-linux)
     liquid (4.0.3)
-    listen (3.7.0)
+    listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    mini_racer (0.5.0)
+    mini_racer (0.6.1)
       libv8-node (~> 16.10.0.0)
-    nokogiri (1.12.5-x86_64-darwin)
+    nokogiri (1.13.1-x86_64-darwin)
       racc (~> 1.4)
-    nokogiri (1.12.5-x86_64-linux)
+    nokogiri (1.13.1-x86_64-linux)
       racc (~> 1.4)
     parallel (1.21.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
     racc (1.6.0)
-    rainbow (3.0.0)
+    rainbow (3.1.1)
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -151,4 +151,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.2.21
+   2.2.32

@@ -69,8 +69,8 @@ collections:
     output: true
   posts:
     cards: true
+    name: News
     homepage: news/index.html
-    permalink: /:year/:month/:day/:title/
 
 # Jekyll specific options, should be able to just leave these as they are.
 markdown: kramdown
