@@ -22,8 +22,8 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 group :jekyll_plugins do
   gem "jekyll-theme-anu", :git => "git@gitlab.anu.edu.au:jekyll-anu/gems/jekyll-theme-anu.git", :tag => "v2.1.0"
   gem "jekyll-plugins-anu", :git => "git@gitlab.anu.edu.au:jekyll-anu/gems/jekyll-plugins-anu.git",  :tag => "v2.1.0"
-  gem "jekyll-revealify-plugin", :git => "git@gitlab.anu.edu.au:jekyll-anu/gems/jekyll-revealify-plugin.git", :branch => 'master'
-  gem "jekyll-paginate-v2", :git => "https://github.com/viv-li/jekyll-paginate-v2.git", :branch => 'develop'
+  gem "jekyll-revealify-plugin", :git => "git@gitlab.anu.edu.au:jekyll-anu/gems/jekyll-revealify-plugin.git", :branch => "master"
+  gem "jekyll-paginate-v2", :git => "https://github.com/viv-li/jekyll-paginate-v2.git", :branch => "develop"
   gem "jekyll-sitemap"
 end
 
