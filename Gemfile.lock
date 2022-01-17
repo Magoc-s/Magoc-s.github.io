@@ -1,9 +1,9 @@
 GIT
   remote: git@gitlab.anu.edu.au:jekyll-anu/gems/jekyll-plugins-anu.git
-  revision: 31caa7dd9af99f43b2243656857869f5cf1992af
-  branch: master
+  revision: b02b56b980d8490c9f4f460ea4ecbe953903b4bb
+  tag: v2.1.0
   specs:
-    jekyll-plugins-anu (0.1.0)
+    jekyll-plugins-anu (2.1.0)
       classifier-reborn
       html-proofer
       jekyll
@@ -23,10 +23,10 @@ GIT
 
 GIT
   remote: git@gitlab.anu.edu.au:jekyll-anu/gems/jekyll-theme-anu.git
-  revision: 914086fe8cabcb8a0cbb39a7ce9104d2af7b070f
-  branch: master
+  revision: 669cba4c9ee16ec2c36f1caeb8a392726ec1a246
+  tag: v2.1.0
   specs:
-    jekyll-theme-anu (0.1.0)
+    jekyll-theme-anu (2.1.0)
       jekyll
 
 GIT
@@ -106,7 +106,7 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    mini_racer (0.6.1)
+    mini_racer (0.6.2)
       libv8-node (~> 16.10.0.0)
     nokogiri (1.13.1-x86_64-darwin)
       racc (~> 1.4)
