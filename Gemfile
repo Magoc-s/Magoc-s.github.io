@@ -25,6 +25,8 @@ group :jekyll_plugins do
   gem "jekyll-revealify-plugin", :git => "git@gitlab.anu.edu.au:jekyll-anu/gems/jekyll-revealify-plugin.git", :branch => "master"
   gem "jekyll-paginate-v2", :git => "https://github.com/viv-li/jekyll-paginate-v2.git", :branch => "develop"
   gem "jekyll-sitemap"
+  ## temporary fix for the old jekyll-autoprefixer-re gem, which is no longer on rubygems.org
+  gem "jekyll-autoprefixer-re", :git => "https://github.com/silkkycloud/jekyll-autoprefixer-re.git", :branch => "master"
 end
 
 # Add webrick as a dependency for Ruby 3.0, as it's no longer a bundles gem
