@@ -1,22 +1,95 @@
 ---
-title: Jekyll ANU Website Template
-tagline: This is a starting point - make it your own!
+title: Indigenous Engineering Design Studio
+tagline: Co-create the possibilities
+layout: feature
 hidden: true
 tags: home
 no_breadcrumb: true
 show_anchor_headings: false
 ---
 
+## Honouring Indigenous knowledge and the role it continues to place in innovation, design, research and teaching
+
 {:.lead}
-This is a template course website page for the Jekyll ANU Website Template repo.
 
-This repo contains a selection of sample pages to demonstrate how one may want
-to use the new Jekyll ANU theme. You will have to add to and modify this
-template to suit your website.
+[Quote from Aunty Anne and/or Peter Yu tbc]
 
-For more information, see the [online
-documentation](https://cs.anu.edu.au/docs/gitlab-pages/docs/).
+What kind of space can we co-create that:
+ - honours Aboriginal and Torres Strait Islander knowledge and its continuing role in innovation, design, research and teaching, 
+ - is rooted in, and imbued with, principles of Aboriginal and Torres Strait Islander ways of knowing, being and doing,
+ - privileges Aboriginal and Torres Strait Islander voices, interests and needs
 
-{% include get-help-box.md %}
+[Find out more about us]({% link _about/index.md %}){: .button--outline}
+{: .aside}
 
 
+## Some early thinking…
+
+{:.lead}
+
+Indigenous-led organisation recommends where to head
+
+“Right from the beginning, the Indigenous Engineering Design Studio was intended to ***honour Aboriginal and Torres Strait Islander knowledge*** and its continuing role in innovation, design, research and teaching. To gain insight into how this might come into being, early research, design and testing was done by an Indigenous-led organisation, PwC Indigenous Consulting (PIC). 
+
+PIC has recommended co-creating the IEDS through three phases of work: ***Establish***, ***Build***, and ***Grow***. 
+
+Overall the report emphasises the principles of self-determination and Aboriginal and Torres Strait Islander leadership, balanced with sustainability for the initiative. 
+
+[PIC quote tbc]
+
+<style>
+/* FIXME (duplicated across from cybernetics homepage) */
+.img-container {
+  display: grid;
+  place-items: center;
+}
+.img-container img {
+  width: 50%;
+  margin-bottom: 1rem;
+}
+</style>
+
+<div class="grid grid--3">
+  <article markdown="1">
+
+{% anu_icon 001-2/021 %}
+
+### [Establish](#)
+
+Focuses on setting the IEDS up for success and making critical decisions at the start that will lay the foundation for the path forward. These include decisions around governance, vision and purpose, naming and branding and early testing of ideas for how the space will work  
+Stay tuned here as we’re hoping to co-create and shape these - especially first up the vision and purpose, and naming and branding (bye bye temporary name ‘IEDS’!)! 
+
+  </article>
+
+  <article markdown="1">
+
+{% anu_icon 006/33 %}
+
+### [Build](#)
+
+All about co-creating, testing and delivering initial offerings of the IEDS and building up the IEDS as an organisation. These include building out the physical space for the IEDS, developing strong partnerships, services and events such as tutoring/mentoring, guest speakers/residencies, industry projects/hackathons 
+
+  </article>
+
+  <article markdown="1">
+
+{% anu_icon 006/27 %}
+
+### [Grow](#)
+
+Recommends actions to support the aspiration that the impact of IEDS reaches beyond the ANU ecosystem and is seen as a leader in the space. This could include programs that share knowledge with a wider audience eg short courses, pre-tertiary holiday programs, online options.
+
+  </article>
+
+</div>
+
+## News and events
+
+{% assign latest = site.posts | where_exp:"post", "post.hidden != true" | sort: "date" | reverse | slice: 0, 6 %}
+
+{% include page-cards.html cards=latest %}
+
+[More news]({% link news/index.html %}){: .button}
+{: .aside}
+
+{% include ieds_chat.html %}

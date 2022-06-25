@@ -1,6 +1,7 @@
 # Course/Page specific config options
-title: ANU CECS Template site
-description: A template website for the new ANU Jekyll theme.
+subbrand: ANU School of Engineering
+title: Indigenous Engineering Design Studio
+description: The homepage for the Indigenous Engineering Design Studio in the School of Engineering.
 baseurl: ""
 url: ""
 date_format: "%b %-d, %Y"
@@ -33,8 +34,8 @@ theme: jekyll-theme-anu
 # Values that can be accessed by pages, i.e. a 'contact' option in the footer of every page.
 contacts:
   responsible_officer:
-    name: School Director
-    email: director.comp@anu.edu.au
+    name: Faye Liu
+    email: faye.liu@anu.edu.au
   page_contact:
     name: CECS Jekyll Web Support
     email: e1d2d6ca.ANU365.onmicrosoft.com@apac.teams.ms
@@ -43,29 +44,15 @@ contacts:
 # Add and remove options as you please, as long as the options you add have a valid 'page:' value, otherwise you will not be able to build the page.
 # This layout is purely an example and is meant to be adapted to your specific webpage needs. This sample loosely follows the needs of a course page.
 menu:
-  - name: Lectures
-    page: _lectures/index.md
-  - name: Labs
-    page: _labs/index.md
-  - name: Assessments
-    page: _assessments/index.md
-  - name: Resources
-    page: _resources/index.md
-  - name: Help
-    page: getting-help.md
-  - name: "News"
+  - name: About
+    page: _about/index.md
+  - name: News
     page: news/index.html
 
 
 # tell jekyll what collection directories you want included in your website when it builds.
 collections:
-  lectures:
-    output: true
-  labs:
-    output: true
-  assessments:
-    output: true
-  resources:
+  about:
     output: true
   posts:
     cards: true
