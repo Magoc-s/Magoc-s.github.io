@@ -18,7 +18,7 @@ defaults:
       path: ""
     values:
       layout: default
-      image: /assets/images/ANU_Hanna_Neumann_Building_by_photographer_Rodrigo_Vargas.jpg
+      image: /assets/images/ieds-banner.png
       show_anchor_headings: true
   - scope:
       path: "_posts"
@@ -86,23 +86,23 @@ pagination:
   sort_field: date
   sort_reverse: true
 
-## jekyll-paginate-v2 for auto-pages
-# autopages:
-#   enabled: true
-#   collection: posts
-#   tags:
-#     enabled: true
-#     permalink: /news/tag/:tag/
-#     title: Tag - :tag
-#     layouts:
-#       - autopage_tags.html
-#     slugify:
-#       mode: default
-#       case: true
-#   collections:
-#     enabled: false
-#   categories:
-#     enabled: false
+# jekyll-paginate-v2 for auto-pages
+autopages:
+  enabled: true
+  collection: posts
+  tags:
+    enabled: true
+    permalink: /news/tag/:tag/
+    title: Tag - :tag
+    layouts:
+      - autopage_tags.html
+    slugify:
+      mode: default
+      case: true
+  collections:
+    enabled: false
+  categories:
+    enabled: false
 
 # You may add your own YAML tags to this _config file if you want too. An example may be some important links that would be referenced many times
 # throughout your webpage. I.e. a link to the CECS Jekyll web support teams channel:

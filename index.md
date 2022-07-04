@@ -12,7 +12,7 @@ show_anchor_headings: false
 
 {:.lead}
 
-[Quote from Aunty Anne and/or Peter Yu tbc]
+“[If possible, quote/s about IEDS - as the IEDS is intended to privilege Indigenous voices, will it be possible to include a quote from a First Nations campus person/leader? If not, it may be preferable to leave out the quote.]”
 
 What kind of space can we co-create that:
  - honours Aboriginal and Torres Strait Islander knowledge and its continuing role in innovation, design, research and teaching, 
@@ -23,7 +23,7 @@ What kind of space can we co-create that:
 {: .aside}
 
 
-## Some early thinking…
+## Some early thinking...
 
 {:.lead}
 
@@ -52,7 +52,7 @@ Overall the report emphasises the principles of self-determination and Aborigina
 <div class="grid grid--3">
   <article markdown="1">
 
-{% anu_icon 001-2/021 %}
+{% anu_icon 006/27 %}
 
 ### [Establish](#)
 
@@ -73,7 +73,7 @@ All about co-creating, testing and delivering initial offerings of the IEDS and 
 
   <article markdown="1">
 
-{% anu_icon 006/27 %}
+{% anu_icon 001-2/021 %}
 
 ### [Grow](#)
 
