@@ -17,7 +17,7 @@ show_anchor_headings: false
 What kind of space can we co-create that:
  - honours Aboriginal and Torres Strait Islander knowledge and its continuing role in innovation, design, research and teaching, 
  - is rooted in, and imbued with, principles of Aboriginal and Torres Strait Islander ways of knowing, being and doing,
- - privileges Aboriginal and Torres Strait Islander voices, interests and needs
+ - privileges Aboriginal and Torres Strait Islander voices, interests and needs.
 
 [Find out more about us]({% link _about/index.md %}){: .button--outline}
 {: .aside}
@@ -35,8 +35,6 @@ PIC has recommended co-creating the IEDS through three phases of work: ***Establ
 
 Overall the report emphasises the principles of self-determination and Aboriginal and Torres Strait Islander leadership, balanced with sustainability for the initiative. 
 
-[PIC quote tbc]
-
 <style>
 /* FIXME (duplicated across from cybernetics homepage) */
 .img-container {
@@ -52,7 +50,7 @@ Overall the report emphasises the principles of self-determination and Aborigina
 <div class="grid grid--3">
   <article markdown="1">
 
-{% anu_icon 006/27 %}
+{% anu_icon 001-2/021 %}
 
 ### [Establish](#)
 
@@ -73,7 +71,7 @@ All about co-creating, testing and delivering initial offerings of the IEDS and 
 
   <article markdown="1">
 
-{% anu_icon 001-2/021 %}
+{% anu_icon 006/27 %}
 
 ### [Grow](#)
 
