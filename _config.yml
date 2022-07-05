@@ -18,7 +18,7 @@ defaults:
       path: ""
     values:
       layout: default
-      image: /assets/images/ieds-banner.png
+      image: /assets/images/IEDS - Homepage banner.png
       show_anchor_headings: true
   - scope:
       path: "_posts"
@@ -44,16 +44,16 @@ contacts:
 # Add and remove options as you please, as long as the options you add have a valid 'page:' value, otherwise you will not be able to build the page.
 # This layout is purely an example and is meant to be adapted to your specific webpage needs. This sample loosely follows the needs of a course page.
 menu:
-  - name: About
-    page: _about/index.md
-  - name: News
-    page: news/index.html
+#   - name: About
+#     page: _about/index.md
+#   - name: News
+#     page: news/index.html
 
 
 # tell jekyll what collection directories you want included in your website when it builds.
 collections:
   about:
-    output: true
+    output: false
   posts:
     cards: true
     name: News

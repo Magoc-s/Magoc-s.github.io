@@ -19,9 +19,6 @@ What kind of space can we co-create that:
  - is rooted in, and imbued with, principles of Aboriginal and Torres Strait Islander ways of knowing, being and doing,
  - privileges Aboriginal and Torres Strait Islander voices, interests and needs.
 
-[Find out more about us]({% link _about/index.md %}){: .button--outline}
-{: .aside}
-
 
 ## Some early thinking...
 
@@ -81,13 +78,48 @@ Recommends actions to support the aspiration that the impact of IEDS reaches bey
 
 </div>
 
-## News and events
+## So what’s next?
 
-{% assign latest = site.posts | where_exp:"post", "post.hidden != true" | sort: "date" | reverse | slice: 0, 6 %}
+{:.lead}
 
-{% include page-cards.html cards=latest %}
+We’re just starting our journey
 
-[More news]({% link news/index.html %}){: .button}
-{: .aside}
+![Banner Image for Residencies](assets/images/IEDS%20-%20Residencies%20banner.png)
+
+As we start this journey, ***we welcome you all to join us***. We have much planned...
+
+***Right now... :)***
+
+Connect with us! We would love to hear from you, to start the conversation and get co-creating. To do this, get in touch through the ‘Connect with us’ section below. 
+
+***1 August:*** Our first stop is very soon! We have found an amazing Studio Manager to support the Indigenous Engineering Design Studio and they are scheduled to join us at the end of July. Stay tuned for more details of this incredible person.
+
+***Early-mid August:*** Our next stop is… our very first in-person event! We can’t wait to meet you!
+
+We welcome, welcome, welcome you! Welcome you all to come for a yarn, learn about the journey so far, and start co-creating with us what the Indigenous Engineering Design Studio could be and do - everything from our vision and purpose, to what we’re called (it may be a bye bye to our temporary name ‘Indigenous Engineering Design Studio’!), how we look and feel, and what services we provide.
+
+Stay tuned for the details! 
+
+***Anytime...!***
+
+Connect with us (did we mention this before?). Just want to keep in the know on what’s happening, have a question or a suggestion? Or just feel like a chat? We would love to hear from you! Contact us through our ‘Connect with us’ form below. 
+
+## NEW! Interested in joining us?
+
+{:.lead}
+
+IEDS Residencies
+
+**Excited about what you’ve seen so far? Want to be right at the centre of shaping and co-creating the IEDS? Or just plain curious...!?**
+
+The IEDS is very excited to announce that we will soon open a round of Residencies!!
+
+Our Residencies will be at the forefront of shaping and co-creating with our community… well potentially anything and everything. From the vision and purpose of the IEDS, to what it looks and feels like, what it's called, and what it does.
+
+Residencies will be between 6-12 months, and be open to any person who has a strong interest (and/or expertise) in dSTEM and First Nations peoples and culture. People who identify as Aboriginal and Torres Strait Islander are especially welcomed.
+
+Applications will open in the final quarter of this year, with Residencies to start in 2023.
+
+Stay tuned, or keep in touch on this via the ‘Connect with Us’ section below. 
 
 {% include ieds_chat.html %}
