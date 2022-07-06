@@ -1,0 +1,110 @@
+# Course/Page specific config options
+subbrand: ANU School of Engineering
+title: Indigenous Engineering Design Studio
+description: The homepage for the Indigenous Engineering Design Studio in the School of Engineering.
+baseurl: ""
+url: ""
+date_format: "%b %-d, %Y"
+permalink: pretty
+future: true
+
+# This allows you to set default values for pages in specific categories.
+# I.e. the 'layout' option for all pages (path = "") is set to 'default' (the file named 'default' in _layouts in the jekyll-theme-anu repo)
+#      and the default banner image is set by the 'image' tag path.
+# And for all pages under "_resources", we override the default layout with a custom theme declared in our local _layouts that is a
+# duplicate of the default layout, except without the deep-linking functionality of mousing over headings.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: /assets/images/IEDS - Homepage banner.png
+      show_anchor_headings: true
+  - scope:
+      path: "_posts"
+    values:
+      layout: detail
+      show_pagination: true
+      show_collection: true
+
+
+# Pick which theme we want to use. All new jekyll ANU webpages will use this jekyll-theme-anu theme.
+theme: jekyll-theme-anu
+
+# Values that can be accessed by pages, i.e. a 'contact' option in the footer of every page.
+contacts:
+  responsible_officer:
+    name: Faye Liu
+    email: faye.liu@anu.edu.au
+  page_contact:
+    name: CECS Jekyll Web Support
+    email: e1d2d6ca.ANU365.onmicrosoft.com@apac.teams.ms
+
+# The config options for the top navbar menus. 
+# Add and remove options as you please, as long as the options you add have a valid 'page:' value, otherwise you will not be able to build the page.
+# This layout is purely an example and is meant to be adapted to your specific webpage needs. This sample loosely follows the needs of a course page.
+menu:
+#   - name: About
+#     page: _about/index.md
+#   - name: News
+#     page: news/index.html
+
+
+# tell jekyll what collection directories you want included in your website when it builds.
+collections:
+  about:
+    output: false
+  posts:
+    cards: true
+    name: News
+    homepage: news/index.html
+
+# Jekyll specific options, should be able to just leave these as they are.
+markdown: kramdown
+highlighter: none
+jekyll_proofer: warn
+autoprefixer:
+  browsers:
+    - last 2 versions
+
+# Sample values that can be assigned to the 'socials' list that pages can access and use. 
+# These socials links are used in the footers of pages under the 'Acknowledgement of Country', and with the other 'contact' links.
+# socials:
+#   twitter: 
+#   facebook: 
+#   insta: 
+#   youtube: 
+#   linkedin: 
+#   wechat: 
+
+## jekyll-paginate-v2 for pagination
+pagination:
+  enabled: true
+  collection: posts
+  indexpage: index
+  extension: html
+  sort_field: date
+  sort_reverse: true
+
+# jekyll-paginate-v2 for auto-pages
+autopages:
+  enabled: true
+  collection: posts
+  tags:
+    enabled: true
+    permalink: /news/tag/:tag/
+    title: Tag - :tag
+    layouts:
+      - autopage_tags.html
+    slugify:
+      mode: default
+      case: true
+  collections:
+    enabled: false
+  categories:
+    enabled: false
+
+# You may add your own YAML tags to this _config file if you want too. An example may be some important links that would be referenced many times
+# throughout your webpage. I.e. a link to the CECS Jekyll web support teams channel:
+jekyll_support_link: https://teams.microsoft.com/l/team/19%3aIcnInMyxTJ26Ik8FrUs9SefrG_9seawpDu95NmKwiIE1%40thread.tacv2/conversations?groupId=dab190b1-14f2-40cf-b384-ee00c63d2019&tenantId=e37d725c-ab5c-4624-9ae5-f0533e486437
+jekyll_support_email: e1d2d6ca.ANU365.onmicrosoft.com@apac.teams.ms
