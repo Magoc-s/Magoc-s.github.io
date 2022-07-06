@@ -33,4 +33,3 @@ jobs:
       - uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.EPIC_TOKEN }}
-          target_branch: 'gh-pages'
