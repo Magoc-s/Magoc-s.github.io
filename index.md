@@ -51,8 +51,8 @@ Overall the report emphasises the principles of self-determination and Aborigina
 
 ### [Establish](#)
 
-Focuses on setting the IEDS up for success and making critical decisions at the start that will lay the foundation for the path forward. These include decisions around governance, vision and purpose, naming and branding and early testing of ideas for how the space will work  
-Stay tuned here as we’re hoping to co-create and shape these - especially first up the vision and purpose, and naming and branding (bye bye temporary name ‘IEDS’!)! 
+Focuses on setting the IEDS up for success and making critical decisions at the start that will lay the foundation for the path forward. These include decisions around governance, vision and purpose, naming and branding and early testing of ideas for how the space will work.  
+Stay tuned here as we’re hoping to co-create and shape these - especially, first up, the vision and purpose, and naming and branding (bye bye temporary name ‘IEDS’!)! 
 
   </article>
 
@@ -62,7 +62,7 @@ Stay tuned here as we’re hoping to co-create and shape these - especially firs
 
 ### [Build](#)
 
-All about co-creating, testing and delivering initial offerings of the IEDS and building up the IEDS as an organisation. These include building out the physical space for the IEDS, developing strong partnerships, services and events such as tutoring/mentoring, guest speakers/residencies, industry projects/hackathons 
+All about co-creating, testing and delivering initial offerings of the IEDS and building up the IEDS as an organisation. These include building out the physical space for the IEDS, developing strong partnerships and services and events such as tutoring/mentoring, guest speakers/residencies, industry projects/hackathons 
 
   </article>
 
@@ -72,7 +72,7 @@ All about co-creating, testing and delivering initial offerings of the IEDS and 
 
 ### [Grow](#)
 
-Recommends actions to support the aspiration that the impact of IEDS reaches beyond the ANU ecosystem and is seen as a leader in the space. This could include programs that share knowledge with a wider audience eg short courses, pre-tertiary holiday programs, online options.
+Recommends actions to support the aspiration that the impact of IEDS reaches beyond the ANU ecosystem, and is seen as a leader in the space. This could include programs that share knowledge with a wider audience eg short courses, pre-tertiary holiday programs, online options.
 
   </article>
 
@@ -88,15 +88,13 @@ We’re just starting our journey
 
 As we start this journey, ***we welcome you all to join us***. We have much planned...
 
-***Right now... :)***
-
-Connect with us! We would love to hear from you, to start the conversation and get co-creating. To do this, get in touch through the ‘Connect with us’ section below. 
+***Today, and right now:*** Connect with us! We would love to hear from you, to start the conversation and get co-creating. To do this, get in touch through the ‘Connect with us’ section below. 
 
 ***1 August:*** Our first stop is very soon! We have found an amazing Studio Manager to support the Indigenous Engineering Design Studio and they are scheduled to join us at the end of July. Stay tuned for more details of this incredible person.
 
 ***Early-mid August:*** Our next stop is… our very first in-person event! We can’t wait to meet you!
 
-We welcome, welcome, welcome you! Welcome you all to come for a yarn, learn about the journey so far, and start co-creating with us what the Indigenous Engineering Design Studio could be and do - everything from our vision and purpose, to what we’re called (it may be a bye bye to our temporary name ‘Indigenous Engineering Design Studio’!), how we look and feel, and what services we provide.
+We welcome, welcome, welcome you! Welcome you all to come for a yarn, learn about the journey so far, and start co-creating with us what the Indigenous Engineering Design Studio could be and do &mdash; everything from our vision and purpose, to what we’re called (it may be a bye bye to our temporary name ‘Indigenous Engineering Design Studio’!), how we look and feel, and what services we provide.
 
 Stay tuned for the details! 
 
@@ -114,7 +112,7 @@ IEDS Residencies
 
 The IEDS is very excited to announce that we will soon open a round of Residencies!!
 
-Our Residencies will be at the forefront of shaping and co-creating with our community… well potentially anything and everything. From the vision and purpose of the IEDS, to what it looks and feels like, what it's called, and what it does.
+Our IEDS Residents will be at the forefront of shaping and co-creating with our community… well potentially anything and everything. From the vision and purpose of the IEDS, to what it looks and feels like, what it's called, and what it does.
 
 Residencies will be between 6-12 months, and be open to any person who has a strong interest (and/or expertise) in dSTEM and First Nations peoples and culture. People who identify as Aboriginal and Torres Strait Islander are especially welcomed.
 
