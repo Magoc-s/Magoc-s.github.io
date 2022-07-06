@@ -90,3 +90,5 @@ gh-pages-deploy:
     - git commit -m "new deploy"
     - git fetch deploy
     - git push deploy master -f
+  only:
+    - master
