@@ -24,16 +24,13 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
+      
       # setup git keys
       - uses: webfactory/ssh-agent@v0.5.4
         with:
           ssh-private-key: ${{ secrets.SSH_KEY }}
-      - name: Jekyll Actions
-        uses: helaili/jekyll-action@2.4.0
+          
+      - uses: helaili/jekyll-action@v2
         with:
-          # The GITHUB_TOKEN secret
           token: ${{ secrets.EPIC_TOKEN }}
-          keep_history: true
-          target_path: /
-          # The target branch name the site gets pushed to
-          target_branch: master
+          target_branch: 'gh-pages'
