@@ -118,6 +118,7 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
+    libv8-node (16.10.0.0-x86_64-darwin-19)
     libv8-node (16.10.0.0-x86_64-linux)
     liquid (4.0.3)
     listen (3.7.1)
@@ -128,6 +129,8 @@ GEM
       libv8-node (~> 16.10.0.0)
     mize (0.4.0)
       protocol (~> 2.0)
+    nokogiri (1.13.6-x86_64-darwin)
+      racc (~> 1.4)
     nokogiri (1.13.6-x86_64-linux)
       racc (~> 1.4)
     parallel (1.22.1)
@@ -161,6 +164,7 @@ GEM
     yell (2.2.2)
 
 PLATFORMS
+  x86_64-darwin-19
   x86_64-linux
 
 DEPENDENCIES

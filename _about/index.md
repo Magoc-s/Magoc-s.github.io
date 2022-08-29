@@ -1,18 +1,18 @@
 ---
-title: What is the IEDS?
-tagline: A place, a space and a thing to be co-created...
+title: Indigenous Engineering Design Studio
+tagline:
 permalink: /about/
 show_toc: true
 ---
 
-The IEDS started as an intention: something to honour Aboriginal and Torres Strait Islander knowledge and its continuing role in innovation, design, research and teaching. Something to be designed, established, and maintained using principles of Aboriginal and Torres Strait Islander ways of knowing, being and doing.
+The IEDS is a First Nations-led studio within the School of Engineering which seeks to embed Indigenous knowledge and perspectives into the learnings of a new generation of engineers at the Australian National University.
 
-An Indigenous-led organisation, PwC Indigenous Consulting, have helped us look at how to bring the IEDS into being. Their report emphasised self-determination and Aboriginal and Torres Strait Islander leadership, balanced with sustainability for the initiative, as key to success. 
+What are our capabilities as engineers? This question defines a new era of engineering, where understanding multidisciplinary systems and end-of-life responsibilities require new ways of thinking.
 
-The report included a range of ideas about the formation of the IEDS, its services and audiences - and now the question is what to do with those ideas. Which ideas should stay, and how should they be implemented. 
+The IEDS is a place to help shape these conversations, support First Nations research, forge lasting relationships and drive change towards a more sustainable and equitable future.
 
-Our starting questions are around the vision and purpose of the IEDS, its name (IEDS was only intended to be temporary), how it should look and feel, and what it should do...
+Australian National University RAP https://www.anu.edu.au/about/strategic-planning/reconciliation-action-plan
 
-We have a space (in the award winning renovated Birch Building) and a person who is here to support the IEDS (a Studio Manager - stay tuned for details about this amazing person!).
+First Nations Strategic Priorities https://engage.anu.edu.au/giving/first-nations
 
-Join our conversation and co-create with us! You can get in touch [here.]({% link index.md %}#connect-with-us)
+You can get in touch [here.]({% link index.md %}#connect-with-us)
