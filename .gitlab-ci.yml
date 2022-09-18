@@ -4,6 +4,7 @@ variables:
   STAGING_DIR: /srv/gitlab-ce-pages/staging
   BUILD_DIR: $STAGING_DIR/$CI_PIPELINE_ID/$CI_BUILD_REF_NAME/$CI_PROJECT_PATH
   DEPLOY_DIR: $STAGING_DIR/$CI_BUILD_ID/$CI_BUILD_REF_NAME
+  ssh_private_key: id_rsa_runner.pub
 
 # # this step taken from https://docs.gitlab.com/ee/ci/ssh_keys/
 # before_script:
