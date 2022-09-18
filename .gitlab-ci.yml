@@ -54,20 +54,20 @@ variables:
 #   only:
 #     - master
 
-before_script:
+#before_script:
   # Git and SSH setup to clone private repos
   # Needs the deploykey file to be installed in all dependent repositories
-  - git config --global url."git@gitlab.com:".insteadOf "https://gitlab.com/"
+#  - git config --global url."git@gitlab.com:".insteadOf "https://gitlab.com/"
   # Add gitlab to known_hosts
-  - mkdir -p ~/.ssh && chmod 700 ~/.ssh
-  - ssh-keyscan -H gitlab.com >> ~/.ssh/known_hosts
+#  - mkdir -p ~/.ssh && chmod 700 ~/.ssh
+#  - ssh-keyscan -H gitlab.com >> ~/.ssh/known_hosts
   # Start the ssh agent and add the deploykey
-  - echo "$ssh_private_key"
-  - echo $ssh_private_key > deploykey
-  - chmod 400 deploykey
-  - eval $(ssh-agent -s)
-  - ssh-add deploykey
-  - apt-get install -y git
+#  - echo "$ssh_private_key"
+#  - echo $ssh_private_key > deploykey
+#  - chmod 400 deploykey
+#  - eval $(ssh-agent -s)
+#  - ssh-add deploykey
+#  - apt-get install -y git
 
 # gh-pages-build:
 #   tags:
