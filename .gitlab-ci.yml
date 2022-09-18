@@ -84,7 +84,7 @@ gh-pages-deploy:
     - Pages
   stage: deploy
   script:
-    #- bundle install
+    - bundle install
     - bundle exec jekyll build -d ./docs
     - git remote add deploy git@github.com:Magoc-s/magoc-s.github.io.git
     - git add docs/
