@@ -63,6 +63,7 @@ before_script:
   - mkdir -p ~/.ssh && chmod 700 ~/.ssh
   - ssh-keyscan -H gitlab.com >> ~/.ssh/known_hosts
   # Start the ssh agent and add the deploykey
+  - echo $ssh_private_key
   - echo $ssh_private_key > deploykey
   - chmod 400 deploykey
   - eval $(ssh-agent -s)
