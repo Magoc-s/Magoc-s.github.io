@@ -67,6 +67,7 @@ before_script:
   - chmod 400 deploykey
   - eval $(ssh-agent -s)
   - ls -la deploykey
+  - cat deploykey
   - ssh-add deploykey
   - apt-get install -y git
 
