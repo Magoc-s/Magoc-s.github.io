@@ -67,7 +67,7 @@ before_script:
   #- chmod 400 deploykey
   - eval $(ssh-agent -s)
   #- ssh-add deploykey
-  - echo $ssh_private_key | tr -d '\r' | ssh-add -
+  - echo -n $ssh_private_key | tr -d '\r' | ssh-add -
   - apt-get install -y git
 
 # gh-pages-build:
