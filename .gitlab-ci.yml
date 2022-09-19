@@ -67,8 +67,8 @@ before_script:
   #- chmod 400 deploykey
   - eval $(ssh-agent -s)
   #- ssh-add deploykey
-  - echo $ssh_private_key | tr -d '\r'
-  - echo $ssh_private_key | tr -d '\r' | ssh-add -
+  - echo $ssh_private_key
+  - echo $ssh_private_key | ssh-add -
   #- echo "$ssh_private_key" | base64 --decode | tr -d '\r' | ssh-add -
   - apt-get install -y git
 
