@@ -1,5 +1,5 @@
 ---
-title: Early discussions for the IEDS
+title: Early discussions for the Bandalang Studio 
 tagline: 
 image: assets/images/news/IEDS-placeholder-image copy.jpeg
 ---

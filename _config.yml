@@ -1,6 +1,6 @@
 # Course/Page specific config options
-subbrand: ANU School of Engineering
-title: Indigenous Engineering Design Studio
+subbrand: ANU Bandalang Studio
+title: Bandalang Studio
 description: The homepage for the Indigenous Engineering Design Studio in the School of Engineering.
 baseurl: ""
 url: ""
@@ -18,7 +18,7 @@ defaults:
       path: ""
     values:
       layout: default
-      image: /assets/images/IEDS - Homepage banner Ricky Maynard.jpeg
+      image: /assets/images/IEDS Website banner_ Patrick Green.jpg
       show_anchor_headings: true
   - scope:
       path: "_posts"
@@ -46,14 +46,20 @@ contacts:
 menu:
    - name: About
      page: _about/index.md
+  #- name: What we offer
+  #  page: _what-we-offer/index.md
+   # - name: Residencies
+    # page: _residencies/index.md
+   - name: Opportunities
+     page: _opportunities/index.md
+   #- name: Projects
+    # page: _projects/index.html
+   - name: People
+     page: _people/index.md
    - name: News
      page: news/index.html
-   - name: What we offer
-     page: _what-we-offer/index.md
-   - name: Residencies
-     page: _residencies/index.md
-   - name: Support Us
-     page: _support-us/index.md
+   #- name: Support Us
+   #  page: _support-us/index.md
    - name: Contact Us
      page: _contact-us/index.md
 
@@ -70,6 +76,12 @@ collections:
     output: true
   residencies:
     output: true
+  opportunities:
+    output: true
+  projects:
+    output: true
+  people:
+    output: true 
   support-us:
     output: true
   contact-us:

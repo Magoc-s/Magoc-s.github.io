@@ -1,6 +1,6 @@
 ---
-title: Indigenous Engineering Design Studio
-tagline:
+title: Bandalang
+tagline: Engineering Co-Design Studio
 layout: feature
 hidden: true
 tags: home
@@ -8,29 +8,43 @@ no_breadcrumb: true
 show_anchor_headings: false
 ---
 
-## Honouring Indigenous knowledge and the role it continues to place in innovation, design, research and teaching
+## Honouring Indigenous Knowledge Systems in innovation, design, research and teaching
 
 {:.lead}
 
-“[If possible, quote/s about IEDS - as the IEDS is intended to privilege Indigenous voices, will it be possible to include a quote from a First Nations campus person/leader? If not, it may be preferable to leave out the quote.]”
+What are our capabilities as engineers? This question defines a new era of engineering, where understanding interdisciplinary systems and end-of-life responsibilities require new ways of thinking.
 
-What kind of space can we co-create that:
- - honours Aboriginal and Torres Strait Islander knowledge and its continuing role in innovation, design, research and teaching, 
- - is rooted in, and imbued with, principles of Aboriginal and Torres Strait Islander ways of knowing, being and doing,
- - privileges Aboriginal and Torres Strait Islander voices, interests and needs.
+The Bandalang Studio is a place to help shape these conversations, forge lasting relationships and drive change towards a more sustainable and equitable future.
 
 
-## Some early thinking...
+## What we offer
 
 {:.lead}
 
-Indigenous-led organisation recommends where to head
+The Bandalang Studio is a place to forge connections for First Nations researchers, innovators, leaders and their non-indigenous allies to learn and collaborate
 
-“Right from the beginning, the Indigenous Engineering Design Studio was intended to ***honour Aboriginal and Torres Strait Islander knowledge*** and its continuing role in innovation, design, research and teaching. To gain insight into how this might come into being, early research, design and testing was done by an Indigenous-led organisation, PwC Indigenous Consulting (PIC). 
+The Bandalang Studio offers space, resources and opportunities within our Residencies and to ANU students, researchers and staff
 
-PIC has recommended co-creating the IEDS through three phases of work: ***Establish***, ***Build***, and ***Grow***. 
+The Bandalang Studio creates opportunitites to embed Indigenous knowledge systems into core Engineering modules
 
-Overall the report emphasises the principles of self-determination and Aboriginal and Torres Strait Islander leadership, balanced with sustainability for the initiative. 
+
+## Work with us
+
+{:.lead}
+
+Help us build 
+
+Are you interested in seeing Indigenous knowledge help shape new ways of engineering in Australia? We want to hear from you. We are seeking thinkers, practitioners, academics and people with a non-traditional career paths to join us in this journey. We're opening opportunities for residencies and opportunities for people to work with us. For more information see here.
+
+![Banner Image for Residencies](assets/images/IEDS%20-%20placeholder%20image.jpeg)
+
+## Some early thinking... 
+
+{:.lead}
+
+ANU has sought PwC Indigneous Consulting (PIC) to advise the appropriate approach in establishing the studio.
+
+PIC has recommended co-creating the Bandalang Studio through three phases of work: ***Establish***, ***Build***, and ***Grow***. 
 
 <style>
 /* FIXME (duplicated across from cybernetics homepage) */
@@ -51,8 +65,9 @@ Overall the report emphasises the principles of self-determination and Aborigina
 
 ### [Establish](#)
 
-Focuses on setting the IEDS up for success and making critical decisions at the start that will lay the foundation for the path forward. These include decisions around governance, vision and purpose, naming and branding and early testing of ideas for how the space will work.  
-Stay tuned here as we’re hoping to co-create and shape these - especially, first up, the vision and purpose, and naming and branding (bye bye temporary name ‘IEDS’!)! 
+The Establish phase emphaises the importance of good governance, founding principles, and the naming of the studio
+
+This phase is a collaborative process, in which we seek advice from an Indigenous-majority working group at ANU.
 
   </article>
 
@@ -62,7 +77,7 @@ Stay tuned here as we’re hoping to co-create and shape these - especially, fir
 
 ### [Build](#)
 
-All about co-creating, testing and delivering initial offerings of the IEDS and building up the IEDS as an organisation. These include building out the physical space for the IEDS, developing strong partnerships and services and events such as tutoring/mentoring, guest speakers/residencies, industry projects/hackathons 
+Co-creating is critical to the building phase. We will be working closely with Indigenous leaders in innovation and research to shape the offerings of the Bandalang Studio. These include building out the physical space for the studio, developing strong partnerships and services and events such as tutoring/mentoring, and residencies.
 
   </article>
 
@@ -72,25 +87,19 @@ All about co-creating, testing and delivering initial offerings of the IEDS and 
 
 ### [Grow](#)
 
-Recommends actions to support the aspiration that the impact of IEDS reaches beyond the ANU ecosystem, and is seen as a leader in the space. This could include programs that share knowledge with a wider audience eg short courses, pre-tertiary holiday programs, online options.
+In this phase we strive to reach beyond the ANU ecosystem. Outreach programs with pre-tertiary holiday programs and support pathways in engineering for Indigenous students, practitioners and researchers.
 
   </article>
 
 </div>
 
-## So what’s next?
 
-{:.lead}
+## About the College 
 
-We’re just starting our journey
 
-![Banner Image for Residencies](assets/images/IEDS%20-%20placeholder%20image.jpeg)
+The ANU School of Engineering is part of the [ANU College of Engineering and Computer Science (CECS)]( https://cecs.anu.edu.au/) which is also home to the [ANU School of Computing](https://comp.anu.edu.au/) and [ANU School of Cybernetics.](https://cybernetics.anu.edu.au)
 
-## Interested in joining us?
 
-{:.lead}
-
-IEDS Residencies
 
 
 {% include ieds_chat.html %}
