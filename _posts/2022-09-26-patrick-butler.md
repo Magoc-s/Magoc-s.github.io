@@ -1,10 +1,12 @@
 ---
-title: Bandalang Studio Website banner image
-tagline: Patrick Butler's artwork'We Were Free Before'
+title: Bandalang Studio acquires Patrick Green's sculpture "We Were Free Before"
+tagline:
 image: assets/images/news/We Were Free Before.JPG
 ---
 
-### There's a story behind our hero banner image for this website- a feat of engineering, Indigenous knowledge and collaboration between two cultures that saw these water pumps installed in the mid 1980's.
+### Bandalang Studio is excited to annouce the acquisition of sculpture "We Were Free Before" by Ngaanyatjarra artist Patrick Green
+
+There's a story behind our hero banner image for this website- a sculpture which represents a feat of engineering, Indigenous knowledge and collaboration between two cultures that saw these water pumps installed in the mid 1980's. 
 
 ### 'We Were Free Before' - Water Pump (Patrick Butler) 2017
 

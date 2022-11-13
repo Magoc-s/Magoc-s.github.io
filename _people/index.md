@@ -68,19 +68,33 @@ To establish the Bandalang Studio, a First Nations majority working group has co
 
   <article markdown="1">
 
- ![image-title-here](/assets/images/Jeremy Smith bw.jpg){:class="img-responsive"}
+ ![image-title-here](/assets/images/Chris Kellett bw.jpg){:class="img-responsive"}
+
+[Christopher Kellett](https://eng.anu.edu.au/people/christopher-kellett/)
+
+ </article>
+
+  <article markdown="1">
+
+![image-title-here](/assets/images/Jeremy Smith bw.jpg){:class="img-responsive"}
 
 
 [Jeremy Smith](https://cecs.anu.edu.au/people/jeremy-smith)
 
-  </article>
+</article>
+
+  <article markdown="1">
+  
+
+![image-title-here](/assets/images/Lachlan Blackhall bw.jpg){:class="img-responsive"}
+ 
+[Lachlan Blackhall](https://cecs.anu.edu.au/people/lachlan-blackhall)
+
+</article>
 
   <article markdown="1">
 
- ![image-title-here](/assets/images/Lachlan Blackhall bw.jpg){:class="img-responsive"}
-
-
-[Lachlan Blackhall](https://cecs.anu.edu.au/people/lachlan-blackhall)
+ 
 
 
 

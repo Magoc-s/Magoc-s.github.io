@@ -1,6 +1,6 @@
 ---
-title: Bandalang
-tagline: Engineering Co-Design Studio
+title: Bandalang Studio 
+tagline: Indigenous Engineering Design 
 layout: feature
 hidden: true
 tags: home
@@ -36,7 +36,7 @@ Help us build
 
 Are you interested in seeing Indigenous knowledge help shape new ways of engineering in Australia? We want to hear from you. We are seeking thinkers, practitioners, academics and people with a non-traditional career paths to join us in this journey. We're opening opportunities for residencies and opportunities for people to work with us. For more information see here.
 
-![Banner Image for Residencies](assets/images/IEDS%20-%20placeholder%20image.jpeg)
+![Banner Image for Residencies](assets/images/Bandalang Residencies.JPG)
 
 ## Some early thinking... 
 
@@ -97,7 +97,7 @@ In this phase we strive to reach beyond the ANU ecosystem. Outreach programs wit
 ## About the College 
 
 
-The ANU School of Engineering is part of the [ANU College of Engineering and Computer Science (CECS)]( https://cecs.anu.edu.au/) which is also home to the [ANU School of Computing](https://comp.anu.edu.au/) and [ANU School of Cybernetics.](https://cybernetics.anu.edu.au)
+The ANU School of Engineering is part of the [ANU College of Engineering, Computing & Cybernetics (CECC)]( https://cecs.anu.edu.au/) which is also home to the [ANU School of Computing](https://comp.anu.edu.au/) and [ANU School of Cybernetics.](https://cybernetics.anu.edu.au)
 
 
 

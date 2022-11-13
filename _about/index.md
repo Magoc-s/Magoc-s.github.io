@@ -5,13 +5,13 @@ permalink: /about/
 show_toc: true
 ---
 
-## What is Indigenous Engineering?
+## What is Indigenous Engineering Design?
 
-Indigenous Engineering demonstrates a highly sophisticated transdisciplinary systems thinking approach towards solving problems. 
+Indigenous engineering design demonstrates a highly sophisticated transdisciplinary systems thinking approach towards solving problems. 
 
 For over 65,000 years Indigenous people in Australia have made extraordinary contributions to technology and engineering. These contributions can be seen in the scale and breadth of their developments, from the UNESCO listed Budj Bim eel traps, to the trade routes of greenstone axe heads, to complex interdisciplinary systems of land management and living as demonstrated in the NSW Heritage listed Brewarrina fish traps. 
 
-These are just a couple of examples of how a deep understanding of materials, natural ecological systems and scientific knowledge are harnessed in Indigenous cultures to engineer in Australia.
+These are just a couple of examples of how technical, cultural, ecological and scientific knowledge are harnessed in Indigenous cultures to engineer in Australia.
 
 ## What is the Bandalang Studio? 
 
@@ -47,7 +47,7 @@ The above languages include Walgalu, Wiradyuri, Dhurgaga and Ngunnawal/Gundungar
 
 ## General Enquiries
 
-ieds.eng.cecs@anu.edu.au
+bandalangstudio@anu.edu.au
 
 +61 (02) 6125 6841
 
@@ -97,7 +97,7 @@ ANU School of Engineering staff and students also occupy the following buildings
  ![image-title-here](/assets/images/Blank.jpg){:class="img-responsive"}
 
 
-[CECS Strategic Priorities](https://cecs.anu.edu.au/sites/default/files/reimagine_engineering_computer_science_strategic_intent_2021_-_2025.pdf)
+[CECC Strategic Priorities](https://cecs.anu.edu.au/sites/default/files/reimagine_engineering_computer_science_strategic_intent_2021_-_2025.pdf)
 
 
   </article>
