@@ -9,13 +9,13 @@ show_toc: true
 
 Indigenous engineering design demonstrates a highly sophisticated transdisciplinary systems thinking approach towards solving problems. 
 
-For over 65,000 years Indigenous people in Australia have made extraordinary contributions to technology and engineering. These contributions can be seen in the scale and breadth of their developments, from the UNESCO listed Budj Bim eel traps, to the trade routes of greenstone axe heads, to complex interdisciplinary systems of land management and living as demonstrated in the NSW Heritage listed Brewarrina fish traps. 
+For over 65,000 years Indigenous people in Australia have made extraordinary contributions to technology and engineering. These contributions can be seen in the scale and breadth of their developments, from the UNESCO listed Budj Bim eel traps, to the trade routes of greenstone axe heads, to complex transdisciplinary systems of land management and living as demonstrated in the NSW Heritage listed Brewarrina fish traps. 
 
 These are just a couple of examples of how technical, cultural, ecological and scientific knowledge are harnessed in Indigenous cultures to engineer in Australia.
 
 ## What is the Bandalang Studio? 
 
-Bandalang means 'joining' or 'junction' in Walgalu, which is a local Ngambri language. The name Bandalang was gifted to the studio by traditional Ngambri elder and ANU Senior Community Engagement Officer Paul House, and symbolises the spirit of collaboration which is integral to the mission of the ANU Bandalang Engineering Co-Design Studio. The Bandalang Studio is the place in which Indigenous knowledge and traditional Western practice can collaborate to find sustainable solutions to our future in engineering.
+Bandalang is a Wiradyuri language name which means 'joining' or 'junction'. The name Bandalang was gifted to the studio by Ngambri (Walgalu), Wallaballooa (Ngunnawal), Wiradyuri (Erambie) custodian, Paul Girrawah House.  The name symbolises the spirit of collaboration which is integral to the mission of the ANU Bandalang Studio. The Bandalang Studio is the place in which Indigenous knowledge and traditional Western practice can collaborate to find sustainable solutions to our future in engineering.
 
 In order to honour and learn from these deeply important Indigenous knowledge systems, the Australian National University School of Engineering has established a First Nations designed and led Indigenous Engineering Design Studio which seeks to embed Indigenous knowledge systems into the teachings and research of a new generation of engineers.
 

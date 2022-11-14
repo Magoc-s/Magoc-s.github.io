@@ -10,8 +10,8 @@ show_toc: true
 We are excited to announce that The Bandalang Studio will be opening its doors to residential visist in 2023. These residencies will provide opportunities to industry professionals, academics, practitioners and thinkers in Indigenous knowledge to focus in a supportive environment. 
 
 
-Applications open 9th December 2022 
-Applications close 7th February 2023
+- Applications open 9th December 2022 
+- Applications close 7th February 2023
 
 ### About the Bandalang Residency 
 
@@ -19,7 +19,7 @@ The Bandalang Residency is open to all First Nations researchers, practitioners,
 
 The Bandalang Residency is a residential visit at the newly established ANU Bandalang Indigenous Engineering Design Studio in the School of Engineering on Ngunnawal and Ngambri land. 
 
-Residents will be paid and otherwise supported to do research that contributes to changing perspectives on engineering in Australia and more broadly.   
+Residents will be paid and otherwise supported conduct practice,research and educational development that contributes to changing perspectives on engineering in Australia and more broadly.   
 
 This is an opportunity to help shape the conversations in honouring Indigenous science and engineering at ANU and in Australia. 
 
@@ -29,7 +29,6 @@ The Australian National University School of Engineering established the Bandala
 
 The Bandalang Studio aims to bolster the research and practice of Indigenous Knowledge in engineering by fostering interdisciplinary collaborations, supporting Indigenous individuals, enterprises, start-ups and their allies. Practitioners, researchers and academics from all disciplines are welcome to work within and alongside the Bandalang Studio.
 
-Get in touch anytime
 
 ### The Bandalang Residency offers
 
@@ -57,18 +56,16 @@ Residential package equivalent value of up to $25,000.00 and may include:
 
 1.	Curriculum Vitae
 2.	An example of your work:
-
--	Links to publications
--	Links to collaborations
--	Photos or videos of your work
--	Any other relevant material 
+	-	Links to publications
+	-	Links to collaborations
+	-	Photos or videos of your work
+	-	Any other relevant material 
 
 3.	500- 1000 words (or 2-5 minute video) describing:
-
--	Your current work
--	How you will use this residency opportunity/what you will do
--	What your requirements are to conduct your work during the residency
--	How your work relates to the mission of the ANU Bandalang Studio 
+	-	Your current work
+	-	How you will use this residency opportunity/what you will do
+	-	What your requirements are to conduct your work during the residency
+	-	How your work relates to the mission of the ANU Bandalang Studio 
 
 Please feel free to ask for advice or support for your application. Enquiry details below.
 
@@ -79,8 +76,11 @@ A customised package can be negotiated with you based on the nature of your rese
 You can call or email the Bandalang Studio Program Manager Nyssa Miller to discuss your thoughts or queries anytime.
 
 Submissions and Enquiries
+
 E: bandalangstudio@anu.edu.au
+
 E: nyssa.miller@anu.edu.au
+
 Ph: 02 6125 6841
 
 

@@ -79,7 +79,7 @@ To establish the Bandalang Studio, a First Nations majority working group has co
 ![image-title-here](/assets/images/Jeremy Smith bw.jpg){:class="img-responsive"}
 
 
-[Jeremy Smith](https://cecs.anu.edu.au/people/jeremy-smith)
+[Jeremy Smith](https://eng.anu.edu.au/people/jeremy-smith/)
 
 </article>
 
@@ -89,6 +89,14 @@ To establish the Bandalang Studio, a First Nations majority working group has co
 ![image-title-here](/assets/images/Lachlan Blackhall bw.jpg){:class="img-responsive"}
  
 [Lachlan Blackhall](https://cecs.anu.edu.au/people/lachlan-blackhall)
+
+</article>
+
+  <article markdown="1">
+
+![image-title-here](/assets/images/Maia Gould bw.jpg){:class="img-responsive"}
+ 
+[Maia Gould](https://cecs.anu.edu.au/people/maia-gould)
 
 </article>
 

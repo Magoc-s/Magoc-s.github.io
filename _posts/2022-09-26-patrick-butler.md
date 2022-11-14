@@ -1,5 +1,5 @@
 ---
-title: Bandalang Studio acquires Patrick Green's sculpture "We Were Free Before"
+title: Bandalang Studio acquires Patrick Green's sculpture 'We Were Free Before'
 tagline:
 image: assets/images/news/We Were Free Before.JPG
 ---
