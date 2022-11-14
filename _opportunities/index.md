@@ -23,13 +23,6 @@ Residents will be paid and otherwise supported conduct practice,research and edu
 
 This is an opportunity to help shape the conversations in honouring Indigenous science and engineering at ANU and in Australia. 
 
-### About the Bandalang Studio 
-
-The Australian National University School of Engineering established the Bandalang Studio in 2022. The studio is a First Nations designed and led Indigenous Engineering Design Studio with the mission to honour, support and learn from Indigenous Knowledge Systems in engineering.
-
-The Bandalang Studio aims to bolster the research and practice of Indigenous Knowledge in engineering by fostering interdisciplinary collaborations, supporting Indigenous individuals, enterprises, start-ups and their allies. Practitioners, researchers and academics from all disciplines are welcome to work within and alongside the Bandalang Studio.
-
-
 ### The Bandalang Residency offers
 
 Residential package equivalent value of up to $25,000.00 and may include:
