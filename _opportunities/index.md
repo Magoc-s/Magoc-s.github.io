@@ -10,7 +10,7 @@ show_toc: true
 We are excited to announce that The Bandalang Studio will be opening its doors to residential visist in 2023. These residencies will provide opportunities to industry professionals, academics, practitioners and thinkers in Indigenous knowledge to focus in a supportive environment. 
 
 
-- Applications open 9th December 2022 
+- Applications open 25th November 2022 
 - Applications close 7th February 2023
 
 ### About the Bandalang Residency 
@@ -28,7 +28,7 @@ This is an opportunity to help shape the conversations in honouring Indigenous s
 Residential package equivalent value of up to $25,000.00 and may include:
 -	Weekly living allowance
 -	Travel costs including flights 
--	You will be provided accommodation on campus at the ANU Apartments
+-	You will be provided accommodation on campus at the [ANU Apartments](https://services.anu.edu.au/campus-environment/accommodation/anu-apartments-0)
 -	Appropriate office space and access to ANU workshops
 -	An option to travel with an assistant or companion for the duration of the residency
 -	Potential funding for projects
@@ -38,7 +38,7 @@ Residential package equivalent value of up to $25,000.00 and may include:
 -	This is an identified opportunity. All First Nations peoples are welcome to apply, with a strong preference for applicants who identify as Aboriginal and Torres Strait Islander. 
 -	International First Nations applicants who are not Australian residents are welcome to apply, however special conditions may apply
 -	Residency time frame up to 6 weeks (negotiable)
--	Applications open 9th December 2022
+-	Applications open 25th November 2022
 -	Applications close on the 7th February 2023
 -	There are up to 10 funded positions open
 -	Residencies will run throughout the year of 2023, as suits applicants.
