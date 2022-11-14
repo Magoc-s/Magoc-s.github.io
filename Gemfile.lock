@@ -1,14 +1,4 @@
 GIT
-  remote: git@gitlab.anu.edu.au:jekyll-anu/gems/jekyll-iconoir.git
-  revision: a0b8562b536d0613c1c33fc4e2428dd75b939c32
-  branch: master
-  specs:
-    jekyll-iconoir (1.0.0)
-      amatch
-      jekyll
-      nokogiri
-
-GIT
   remote: git@gitlab.anu.edu.au:jekyll-anu/gems/jekyll-plugins-anu.git
   revision: 53be178ac3b15822c39ecb5a29d08870be4246f3
   tag: v2.2.0
@@ -60,9 +50,6 @@ GEM
   specs:
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
-    amatch (0.4.1)
-      mize
-      tins (~> 1.0)
     autoprefixer-rails (10.2.5.1)
       execjs (> 0)
     classifier-reborn (2.2.0)
@@ -127,8 +114,6 @@ GEM
     mercenary (0.4.0)
     mini_racer (0.6.2)
       libv8-node (~> 16.10.0.0)
-    mize (0.4.0)
-      protocol (~> 2.0)
     nokogiri (1.13.6-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.13.6-x86_64-linux)
@@ -136,8 +121,6 @@ GEM
     parallel (1.22.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    protocol (2.0.0)
-      ruby_parser (~> 3.0)
     public_suffix (4.0.7)
     racc (1.6.0)
     rainbow (3.1.1)
@@ -146,17 +129,11 @@ GEM
       ffi (~> 1.0)
     rexml (3.2.5)
     rouge (3.29.0)
-    ruby_parser (3.19.1)
-      sexp_processor (~> 4.16)
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
-    sexp_processor (4.16.1)
-    sync (0.5.0)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    tins (1.31.1)
-      sync
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
     unicode-display_width (1.8.0)
@@ -170,7 +147,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.2)
   jekyll-autoprefixer-re!
-  jekyll-iconoir!
   jekyll-paginate-v2!
   jekyll-plugins-anu!
   jekyll-revealify-plugin!
