@@ -21,7 +21,7 @@ The Bandalang Residency is a residential visit at the newly established ANU Band
 
 Residents will be paid and otherwise supported conduct practice,research and educational development that contributes to changing perspectives on engineering in Australia and more broadly.   
 
-This is an opportunity to help shape the conversations in honouring Indigenous science and engineering at ANU and in Australia. 
+This is an opportunity to help shape the conversations in honouring Indigenous science and technology in engineering at ANU and in Australia. 
 
 ### The Bandalang Residency offers
 
@@ -64,7 +64,7 @@ Please feel free to ask for advice or support for your application. Enquiry deta
 
 ### This is a flexible opportunity 
 
-A customised package can be negotiated with you based on the nature of your research or practice and your individual needs. 
+**A customised package can be negotiated** with you based on the nature of your research or practice and your individual needs. 
 
 You can call or email the Bandalang Studio Program Manager Nyssa Miller to discuss your thoughts or queries anytime.
 

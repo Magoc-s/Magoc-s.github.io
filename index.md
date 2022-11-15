@@ -12,7 +12,7 @@ show_anchor_headings: false
 
 {:.lead}
 
-What are our capabilities as engineers? This question defines a new era of engineering, where understanding interdisciplinary systems and end-of-life responsibilities require new ways of thinking.
+What are our capabilities as engineers? This question defines a new era of engineering, where understanding transdisciplinary systems and whole-of-life responsibilities require new ways of thinking.
 
 The Bandalang Studio is a place to help shape these conversations, forge lasting relationships and drive change towards a more sustainable and equitable future.
 
@@ -21,11 +21,11 @@ The Bandalang Studio is a place to help shape these conversations, forge lasting
 
 {:.lead}
 
-The Bandalang Studio is a place to forge connections for First Nations researchers, innovators, leaders and their non-indigenous allies to learn and collaborate
+The Bandalang Studio provides a supportive environment for First Nations researchers, innovators, leaders and their non-indigenous allies to learn and collaborate.
 
-The Bandalang Studio offers space, resources and opportunities within our Residencies and to ANU students, researchers and staff
+We offer space, resources and opportunities to First Nations researchers, entrepreneurs, ANU students and staff.
 
-The Bandalang Studio creates opportunitites to embed Indigenous knowledge systems into core Engineering modules
+The Bandalang Studio creates opportunitites to embed Indigenous science and technologies into core ANU Engineering modules.
 
 
 ## Work with us
@@ -67,7 +67,7 @@ PIC has recommended co-creating the Bandalang Studio through three phases of wor
 
 The Establish phase emphaises the importance of good governance, founding principles, and the naming of the studio
 
-This phase is a collaborative process, in which we seek advice from an Indigenous-majority working group at ANU.
+This is a consultative process, in which we seek advice from an Indigenous-majority working group at ANU.
 
   </article>
 
@@ -77,7 +77,7 @@ This phase is a collaborative process, in which we seek advice from an Indigenou
 
 ### [Build](#)
 
-Co-creating is critical to the building phase. We will be working closely with Indigenous leaders in innovation and research to shape the offerings of the Bandalang Studio. These include building out the physical space for the studio, developing strong partnerships and services and events such as tutoring/mentoring, and residencies.
+We will be working closely with Indigenous leaders in innovation and research to shape the offerings of the Bandalang Studio. These include building out the physical space for the studio, developing strong partnerships and services and events such as tutoring/mentoring, and residencies.
 
   </article>
 

@@ -62,7 +62,7 @@ To establish the Bandalang Studio, a First Nations majority working group has co
  ![image-title-here](/assets/images/Matthew Heffernan bw.jpg){:class="img-responsive"}
 
 
-[Matthew Heffernan](https://indigenousx.com.au/contributor/matthewtjapaltjarriheffernan/)
+[Matthew Heffernan](https://services.anu.edu.au/business-units/first-nations-portfolio/gandaywarra-first-nations-innovation-hub)
 
   </article>
 
