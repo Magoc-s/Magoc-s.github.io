@@ -44,7 +44,7 @@ Are you interested in seeing Indigenous knowledge help shape new ways of enginee
 
 ANU has sought PwC Indigneous Consulting (PIC) to advise the appropriate approach in establishing the studio.
 
-PIC has recommended co-creating the Bandalang Studio through three phases of work: ***Establish***, ***Build***, and ***Grow***. 
+PIC has recommended co-creating the Bandalang Studio through three phases of work: **Establish**, **Build**, and **Grow**. 
 
 <style>
 /* FIXME (duplicated across from cybernetics homepage) */
@@ -63,7 +63,7 @@ PIC has recommended co-creating the Bandalang Studio through three phases of wor
 
 {% anu_icon 001-2/021 %}
 
-### [Establish](#)
+### Establish
 
 The Establish phase emphaises the importance of good governance, founding principles, and the naming of the studio
 
@@ -75,7 +75,7 @@ This is a consultative process, in which we seek advice from an Indigenous-major
 
 {% anu_icon 006/33 %}
 
-### [Build](#)
+### Build
 
 We will be working closely with Indigenous leaders in innovation and research to shape the offerings of the Bandalang Studio. These include building out the physical space for the studio, developing strong partnerships and services and events such as tutoring/mentoring, and residencies.
 
@@ -85,7 +85,7 @@ We will be working closely with Indigenous leaders in innovation and research to
 
 {% anu_icon 006/27 %}
 
-### [Grow](#)
+### Grow
 
 In this phase we strive to reach beyond the ANU ecosystem. Outreach programs with pre-tertiary holiday programs and support pathways in engineering for Indigenous students, practitioners and researchers.
 
