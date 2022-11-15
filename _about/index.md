@@ -15,7 +15,7 @@ These are just a couple of examples of how technical, cultural, ecological and s
 
 ## What is the Bandalang Studio? 
 
-Bandalang is a Wiradyuri language name which means 'joining' or 'junction'. The name Bandalang was gifted to the studio by Ngambri (Walgalu), Wallaballooa (Ngunnawal), Wiradyuri (Erambie) custodian, Paul Girrawah House.  The name symbolises the spirit of collaboration which is integral to the mission of the ANU Bandalang Studio. The Bandalang Studio is the place in which Indigenous knowledge and traditional Western practice can collaborate to find sustainable solutions to our future in engineering.
+Bandalang is a Wiradyuri language name which means 'joining' or 'junction'. The name Bandalang was gifted to the studio by Ngambri (Walgalu), Wallaballooa (Ngunnawal), Wiradyuri (Erambie) custodian, Paul Girrawah House.  The name symbolises the spirit of collaboration which is integral to the mission of the ANU Bandalang Studio. The Bandalang Studio is a place in which Indigenous knowledge and traditional Western practice can collaborate to find sustainable solutions to our future in engineering.
 
 In order to honour and learn from these deeply important Indigenous knowledge systems, the Australian National University School of Engineering has established a First Nations designed and led Indigenous Engineering Design Studio which seeks to embed Indigenous knowledge systems into the teachings and research of a new generation of engineers.
 

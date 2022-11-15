@@ -21,7 +21,7 @@ The Bandalang Studio is a place to help shape these conversations, forge lasting
 
 {:.lead}
 
-The Bandalang Studio provides a supportive environment for First Nations researchers, innovators, leaders and their non-indigenous allies to learn and collaborate.
+The Bandalang Studio provides a supportive environment for First Nations students, researchers, innovators, leaders and their non-indigenous allies to learn and collaborate.
 
 We offer space, resources and opportunities to First Nations researchers, entrepreneurs, ANU students and staff.
 
@@ -97,7 +97,7 @@ In this phase we strive to reach beyond the ANU ecosystem. Outreach programs wit
 ## About the College 
 
 
-The ANU School of Engineering is part of the [ANU College of Engineering, Computing & Cybernetics (CECC)]( https://cecs.anu.edu.au/) which is also home to the [ANU School of Computing](https://comp.anu.edu.au/) and [ANU School of Cybernetics.](https://cybernetics.anu.edu.au)
+The ANU School of Engineering is part of the [ANU College of Engineering, Computing & Cybernetics (CECC)]( https://cecs.anu.edu.au/) which is home to the [ANU School of Engineering](https://eng.anu.edu.au/), [ANU School of Computing](https://comp.anu.edu.au/) and [ANU School of Cybernetics.](https://cybernetics.anu.edu.au)
 
 
 

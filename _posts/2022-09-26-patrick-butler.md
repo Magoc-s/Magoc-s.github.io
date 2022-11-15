@@ -30,6 +30,6 @@ life. Before there was money and possessions, even before there was time. As the
 Traditional Owner of this land. Going home to Kurlkurta I can reconnect with my past. I feel free.”
 
 
-### Patrick Butler Bio
+### Patrick Green Bio
 
 Patrick is passionate about his Ngaanyatjarra and Pintupi heritage. Patrick spent his early years in Alice Springs, until his family moved north to Bachelor, a small town in NT. After completing high schooling in Darwin, Patrick went on to complete an apprenticeship as a boiler maker. He returned to his Mother's country in the Ngaanyatjarra Lands to learn about and support his family and culture. Patrick was living in Kiwirrkurra for four years before moving back to Tjukurla in 2016

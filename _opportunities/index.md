@@ -7,7 +7,7 @@ show_toc: true
 
 ## BANDALANG RESIDENCY 2023
 
-We are excited to announce that The Bandalang Studio will be opening its doors to residential visist in 2023. These residencies will provide opportunities to industry professionals, academics, practitioners and thinkers in Indigenous knowledge to focus in a supportive environment. 
+We are excited to announce that The Bandalang Studio will be opening its doors to residential visit in 2023. These residencies will provide opportunities to industry professionals, academics, practitioners and thinkers in Indigenous knowledge to focus in a supportive environment. 
 
 
 - Applications open 25th November 2022 
