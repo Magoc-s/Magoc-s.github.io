@@ -27,7 +27,7 @@ To establish the Bandalang Studio, a First Nations majority working group has co
 
 ![image-title-here](/assets/images/Michelle Jasper bw.jpg){:class="img-responsive"}
 
-[Michelle Jasper](https://services.anu.edu.au/business-units/first-nations-portfolio)
+[Michelle Jasper](https://services.anu.edu.au/business-units/first-nations-portfolio/gandaywarra-first-nations-innovation-hub)
 
   </article>
 
