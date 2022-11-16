@@ -87,6 +87,8 @@ collections:
   contact-us:
     output: true
 
+exclude:
+  - docs/
 
 # Jekyll specific options, should be able to just leave these as they are.
 markdown: kramdown
